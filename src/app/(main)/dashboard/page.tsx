@@ -1,4 +1,6 @@
+
 import { InvoiceListClient } from '@/components/features/dashboard/InvoiceListClient';
+import { DashboardSummary } from '@/components/features/dashboard/DashboardSummary';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import Link from 'next/link';
@@ -22,6 +24,8 @@ export default function DashboardPage() {
           </Button>
         </Link>
       </div>
+
+      <DashboardSummary />
       
       <Card>
         <CardHeader>
