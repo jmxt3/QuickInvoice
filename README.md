@@ -2,6 +2,9 @@
 
 QuickInvoice is an AI-powered invoice processing web application designed to simplify and automate invoice management for QuickBooks users. This MVP demonstrates the concept to potential customers by leveraging AI for data extraction and providing a clean, professional user interface.
 
+## Demo
+- [Live Demo URL](https://studio--invoicepilot-sj5hm.us-central1.hosted.app/)
+
 ## Features
 
 ### Must-Have Features
